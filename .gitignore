@@ -168,3 +168,7 @@ Backups.backupdb
 .MobileBackups.trash
 MobileBackups.trash
 tmbootpicker.efi
+# macOS files ↑
+
+#obsidian folder
+.obsidian
